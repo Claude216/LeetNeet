@@ -1,0 +1,2 @@
+Linked list:
+    floyd's algo: "fast and slow will always intersect at the node x, which will reach the loop start nodes after N nodes, while from the start node of the whole linked list, the distance between the 'whole start node' and the 'loop start node' is also N"
